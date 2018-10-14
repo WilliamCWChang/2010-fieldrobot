@@ -3,4 +3,4 @@
 asdasdas
 
 
-![](./image/2010-fieldrobot (23).JPG){:height="100" width="100"}
+![](./image/2010-fieldrobot (23).JPG)
